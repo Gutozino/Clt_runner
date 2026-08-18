@@ -3,6 +3,10 @@
   "resourceVersion": "1.6",
   "name": "Clt_runner",
   "resources": [
+    {"id":{"name":"rm_imagem_3","path":"rooms/rm_imagem_3/rm_imagem_3.yy",},"order":3,},
+    {"id":{"name":"rm_imagem_2","path":"rooms/rm_imagem_2/rm_imagem_2.yy",},"order":2,},
+    {"id":{"name":"rm_imagem_1","path":"rooms/rm_imagem_1/rm_imagem_1.yy",},"order":1,},
+    {"id":{"name":"rm_imagem_4","path":"rooms/rm_imagem_4/rm_imagem_4.yy",},"order":4,},
     {"id":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},"order":0,},
   ],
   "Options": [
@@ -24,6 +28,10 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},},
+    {"roomId":{"name":"rm_imagem_1","path":"rooms/rm_imagem_1/rm_imagem_1.yy",},},
+    {"roomId":{"name":"rm_imagem_2","path":"rooms/rm_imagem_2/rm_imagem_2.yy",},},
+    {"roomId":{"name":"rm_imagem_3","path":"rooms/rm_imagem_3/rm_imagem_3.yy",},},
+    {"roomId":{"name":"rm_imagem_4","path":"rooms/rm_imagem_4/rm_imagem_4.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
