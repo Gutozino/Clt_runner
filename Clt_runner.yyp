@@ -17,6 +17,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":1,},
     {"id":{"name":"spr_img_2","path":"sprites/spr_img_2/spr_img_2.yy",},"order":1,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
+    {"id":{"name":"obj_layer_vel","path":"objects/obj_layer_vel/obj_layer_vel.yy",},"order":8,},
     {"id":{"name":"spr_coxinha","path":"sprites/spr_coxinha/spr_coxinha.yy",},"order":8,},
     {"id":{"name":"rm_imagem_1","path":"rooms/rm_imagem_1/rm_imagem_1.yy",},"order":1,},
     {"id":{"name":"spr_img_3","path":"sprites/spr_img_3/spr_img_3.yy",},"order":2,},

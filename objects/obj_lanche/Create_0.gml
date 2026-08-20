@@ -19,5 +19,5 @@ else //Senão eu inverto a escala x da imagem dele
 //Dando a velocidade vertical dele
 vspeed = 1
 
-
+vspeed = global.vel
 

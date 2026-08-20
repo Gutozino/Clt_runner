@@ -13,5 +13,7 @@ else //Senão eu inverto a escala x dele
 //Fazendo ele se mover para baixo no eixo Y
 vspeed = 1;
 
+vspeed = global.vel
+
 
 
