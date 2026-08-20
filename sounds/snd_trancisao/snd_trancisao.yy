@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "snd_musica",
+  "name": "snd_trancisao",
   "conversionMode": 0,
   "compression": 0,
   "type": 0,
@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_musica.mp3",
-  "duration": 174.60245,
+  "soundFile": "snd_trancisao.mp3",
+  "duration": 0.626939,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

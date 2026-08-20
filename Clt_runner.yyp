@@ -28,6 +28,7 @@
     {"id":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},"order":6,},
     {"id":{"name":"spr_burguer","path":"sprites/spr_burguer/spr_burguer.yy",},"order":10,},
     {"id":{"name":"rm_imagem_4","path":"rooms/rm_imagem_4/rm_imagem_4.yy",},"order":4,},
+    {"id":{"name":"snd_trancisao","path":"sounds/snd_trancisao/snd_trancisao.yy",},"order":3,},
     {"id":{"name":"snd_reset","path":"sounds/snd_reset/snd_reset.yy",},"order":2,},
     {"id":{"name":"obj_criador","path":"objects/obj_criador/obj_criador.yy",},"order":7,},
     {"id":{"name":"spr_estrada","path":"sprites/spr_estrada/spr_estrada.yy",},"order":9,},
