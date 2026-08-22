@@ -14,6 +14,7 @@
     {"id":{"name":"rm_imagem_2","path":"rooms/rm_imagem_2/rm_imagem_2.yy",},"order":2,},
     {"id":{"name":"spr_img_4","path":"sprites/spr_img_4/spr_img_4.yy",},"order":3,},
     {"id":{"name":"spr_controle_img","path":"sprites/spr_controle_img/spr_controle_img.yy",},"order":12,},
+    {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},"order":10,},
     {"id":{"name":"spr_batata","path":"sprites/spr_batata/spr_batata.yy",},"order":5,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":1,},
     {"id":{"name":"obj_col_som","path":"objects/obj_col_som/obj_col_som.yy",},"order":9,},
