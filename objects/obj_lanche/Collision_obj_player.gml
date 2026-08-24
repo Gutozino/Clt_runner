@@ -1,23 +1,23 @@
 //Quando player tocar no lanche aumenta seus pontos em 1
 //global.pt_player += 1
 
-//Quando player tocar nos lanches aumenta seus pontos em dependendo do lanche
+//Quando player tocar nos lanches aumenta seus pontos dependendo do lanche
 switch(sprite_index)
 {
 	case spr_batata:
-	global.pt_player += 1	
+	global.pt_player += 4	
 	break;
 	
 	case spr_coxinha:
-	global.pt_player += 2
+	global.pt_player += 3
 	break;
 	
 	case spr_burguer:
-	global.pt_player += 4
+	global.pt_player += 2;
 	break;
 	
 	case spr_chocolate:
-	global.pt_player += 3;
+	global.pt_player += 1;
 	break;
 }
 

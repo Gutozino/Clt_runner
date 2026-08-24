@@ -6,6 +6,7 @@
     {"id":{"name":"spr_img_5","path":"sprites/spr_img_5/spr_img_5.yy",},"order":4,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":11,},
     {"id":{"name":"obj_lanche","path":"objects/obj_lanche/obj_lanche.yy",},"order":6,},
+    {"id":{"name":"fnt_pontos","path":"fonts/fnt_pontos/fnt_pontos.yy",},"order":14,},
     {"id":{"name":"spr_img_1","path":"sprites/spr_img_1/spr_img_1.yy",},"order":0,},
     {"id":{"name":"obj_clt","path":"objects/obj_clt/obj_clt.yy",},"order":5,},
     {"id":{"name":"rm_imagem_3","path":"rooms/rm_imagem_3/rm_imagem_3.yy",},"order":3,},

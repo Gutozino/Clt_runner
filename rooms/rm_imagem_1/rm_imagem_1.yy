@@ -17,7 +17,7 @@
   ],
   "layers": [
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Avancar","assets":[
-        {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_F1A3BAB","spriteId":{"name":"spr_img_5","path":"sprites/spr_img_5/spr_img_5.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.5555556,"scaleY":0.6,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":98.0,"y":620.0,},
+        {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_F1A3BAB","spriteId":{"name":"spr_img_5","path":"sprites/spr_img_5/spr_img_5.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.91111106,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":178.0,"y":609.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_618DBB91","properties":[],"isDnd":false,"objectId":{"name":"obj_controle_img","path":"objects/obj_controle_img/obj_controle_img.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":352.0,},
