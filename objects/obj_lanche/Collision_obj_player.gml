@@ -1,5 +1,26 @@
-//Quando player tocar no lanche aumenta seus pontos em 1
-//global.pt_player += 1
+//Quando player tocar nos lanches aumenta seus pontos totais dependendo do lanche
+switch(sprite_index)
+{
+	case spr_batata:
+	global.pt_total += 4	
+	break;
+	
+	case spr_coxinha:
+	global.pt_total += 3
+	break;
+	
+	case spr_burguer:
+	global.pt_total += 2;
+	break;
+	
+	case spr_chocolate:
+	global.pt_total += 1;
+	break;
+}
+
+ini_open("savedata.ini")
+ini_write_real("player", "pontos", global.pt_total)
+ini_close()
 
 //Quando player tocar nos lanches aumenta seus pontos dependendo do lanche
 switch(sprite_index)

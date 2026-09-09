@@ -1,4 +1,4 @@
-x = choose(32, 148)
+ x = choose(32, 148)
 
 //Se ele foi criado na esquerda a escala x é a mesma
 if (x < room_width/2)
