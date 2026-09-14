@@ -1,21 +1,8 @@
-//Quando player tocar nos lanches aumenta seus pontos totais dependendo do lanche
-switch(sprite_index)
+//SE meus pontos player for igual ou maior que pontos total
+//meus pontos totais começam aumentar
+if(global.pt_player >= global.pt_total)
 {
-	case spr_batata:
-	global.pt_total += 4	
-	break;
-	
-	case spr_coxinha:
-	global.pt_total += 3
-	break;
-	
-	case spr_burguer:
-	global.pt_total += 2;
-	break;
-	
-	case spr_chocolate:
-	global.pt_total += 1;
-	break;
+	global.pt_total = global.pt_player	
 }
 
 ini_open("savedata.ini")

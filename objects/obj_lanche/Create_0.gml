@@ -1,6 +1,7 @@
 //Defindo a sprite do lanche
 sprite_index = choose(spr_batata, spr_burguer, spr_chocolate, spr_coxinha);
 
+
 //Definindo a posição incial x
 x = choose(27, 153)
 
@@ -21,6 +22,4 @@ vspeed = 1
 
 vspeed = global.vel
 
-ini_open("savedata.ini")
-global.pt_total = ini_read_real("player", "pontos", 0)
-ini_close()
+
